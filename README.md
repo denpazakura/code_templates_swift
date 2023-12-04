@@ -6,3 +6,4 @@
 ## Statistical calculations:
 
 1. [Median](https://gist.github.com/denpazakura/19a4ae4e69c5b12a4ca8e29593ce8129)
+2. [Mean](https://gist.github.com/denpazakura/2a8e53c2960aed849e20fc912cb9d046)
