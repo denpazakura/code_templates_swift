@@ -7,5 +7,5 @@
 
 1. [Median](https://gist.github.com/denpazakura/19a4ae4e69c5b12a4ca8e29593ce8129)
 2. [Modes](https://gist.github.com/denpazakura/2a8e53c2960aed849e20fc912cb9d046)
-3. [Variance](https://gist.github.com/denpazakura/b5c08dddbcecb88aa45ab56802d28400)
+3. [Variance and standard deviation](https://gist.github.com/denpazakura/b5c08dddbcecb88aa45ab56802d28400)
 
