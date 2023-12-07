@@ -9,4 +9,4 @@
 2. [Modes](https://gist.github.com/denpazakura/2a8e53c2960aed849e20fc912cb9d046)
 3. [Variance and standard deviation](https://gist.github.com/denpazakura/b5c08dddbcecb88aa45ab56802d28400)
 4. [Probability density function](https://gist.github.com/denpazakura/7c4c4090e25a4ecbe1e3ddd596534935)
-
+5. [Cumulative density function](https://gist.github.com/denpazakura/d28667b731aef4292c098fe5ee11a67e)
