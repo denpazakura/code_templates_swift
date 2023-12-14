@@ -7,6 +7,8 @@
 1. [PlusMinus](https://gist.github.com/denpazakura/4726e6cc09ce85d740882ef1499f3a6f)
 2. [Minimum and maximum sum in an array](https://gist.github.com/denpazakura/9339385e4d2ceb1a55758c3a06613333)
 3. [Time conversion](https://gist.github.com/denpazakura/f8bdb7c189bdbf1e0b4ccf0e303aa8e5)
+4. [Lonely integer](https://gist.github.com/denpazakura/1f0e5195040a2586bcc245c6ec4dffa0)
+5. [Diagonal difference](https://gist.github.com/denpazakura/93b2dc2c04c285dc81b326cf6c60bf8a)
 
 ## Statistics:
 
