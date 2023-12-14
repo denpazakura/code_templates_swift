@@ -5,6 +5,8 @@
 
 ## Algorithms:
 1. [PlusMinus](https://gist.github.com/denpazakura/4726e6cc09ce85d740882ef1499f3a6f)
+2. [Minimum and maximum sum in an array](https://gist.github.com/denpazakura/9339385e4d2ceb1a55758c3a06613333)
+3. [Time conversion](https://gist.github.com/denpazakura/f8bdb7c189bdbf1e0b4ccf0e303aa8e5)
 
 ## Statistics:
 
