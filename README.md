@@ -10,6 +10,7 @@
 4. [Lonely integer](https://gist.github.com/denpazakura/1f0e5195040a2586bcc245c6ec4dffa0)
 5. [Diagonal difference](https://gist.github.com/denpazakura/93b2dc2c04c285dc81b326cf6c60bf8a)
 6. [Counting sort](https://gist.github.com/denpazakura/61261c1b92c6942f05a102ab9db814cd)
+7. [ZigZag sequence](https://gist.github.com/denpazakura/4f594e076bb5806f0cd0ceabb778a91e)
 
 ## Statistics:
 
