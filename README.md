@@ -3,7 +3,7 @@
 1. [HTTP client errors](https://gist.github.com/denpazakura/16a33f2e5f85c7e3ad7366e706e1bbcd)
 2. [Repository pattern in Swift + associated types](https://gist.github.com/denpazakura/229d4b7e50ad49558c5c67a4b3cf6fa5)
 
-## Algorithms:
+## Hackerrank solutions in Swift:
 1. [PlusMinus](https://gist.github.com/denpazakura/4726e6cc09ce85d740882ef1499f3a6f)
 2. [Minimum and maximum sum in an array](https://gist.github.com/denpazakura/9339385e4d2ceb1a55758c3a06613333)
 3. [Time conversion](https://gist.github.com/denpazakura/f8bdb7c189bdbf1e0b4ccf0e303aa8e5)
