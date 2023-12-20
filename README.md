@@ -12,6 +12,7 @@
 6. [Counting sort](https://gist.github.com/denpazakura/61261c1b92c6942f05a102ab9db814cd)
 7. [ZigZag sequence](https://gist.github.com/denpazakura/4f594e076bb5806f0cd0ceabb778a91e)
 8. [Tower breakers](https://gist.github.com/denpazakura/5b7895e31b59a1709e891903d9101609)
+9. [Caesar Cipher](https://gist.github.com/denpazakura/db3b02a1747a14198b82c0f865429254)
 
 ## Statistics:
 
