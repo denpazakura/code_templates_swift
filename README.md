@@ -13,7 +13,9 @@
 7. [ZigZag sequence](https://gist.github.com/denpazakura/4f594e076bb5806f0cd0ceabb778a91e)
 8. [Tower breakers](https://gist.github.com/denpazakura/5b7895e31b59a1709e891903d9101609)
 9. [Caesar Cipher](https://gist.github.com/denpazakura/db3b02a1747a14198b82c0f865429254)
-
+10. [Grid challenge](https://gist.github.com/denpazakura/5b86da683fb4cd13d70a3f203421a45b)
+11. [Recursive digit sum](https://gist.github.com/denpazakura/88f8d81bc3fd6260eb4e94ff7029e087)
+12. [New Year Chaos](https://gist.github.com/denpazakura/75c95b09c88ccd4482f74fea8bcd684f)
 ## Statistics:
 
 1. [Median](https://gist.github.com/denpazakura/19a4ae4e69c5b12a4ca8e29593ce8129)
