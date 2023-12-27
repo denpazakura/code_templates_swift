@@ -16,6 +16,10 @@
 10. [Grid challenge](https://gist.github.com/denpazakura/5b86da683fb4cd13d70a3f203421a45b)
 11. [Recursive digit sum](https://gist.github.com/denpazakura/88f8d81bc3fd6260eb4e94ff7029e087)
 12. [New Year Chaos](https://gist.github.com/denpazakura/75c95b09c88ccd4482f74fea8bcd684f)
+13. [Merging linked lists](https://gist.github.com/denpazakura/37334ed863619d43c88cebaa75a02963)
+
+
+
 ## Statistics:
 
 1. [Median](https://gist.github.com/denpazakura/19a4ae4e69c5b12a4ca8e29593ce8129)
