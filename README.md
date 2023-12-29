@@ -18,7 +18,7 @@
 12. [New Year Chaos](https://gist.github.com/denpazakura/75c95b09c88ccd4482f74fea8bcd684f)
 13. [Merging linked lists](https://gist.github.com/denpazakura/37334ed863619d43c88cebaa75a02963)
 14. [Queue using two stacks](https://gist.github.com/denpazakura/3a6396a111706bbdb89f28d822ed4ad5)
-
+15. [Balanced brackets](https://gist.github.com/denpazakura/7f95dc1a774972b0e88d39b4c930fe99)
 
 
 ## Statistics:
