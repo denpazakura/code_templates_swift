@@ -20,6 +20,7 @@
 14. [Queue using two stacks](https://gist.github.com/denpazakura/3a6396a111706bbdb89f28d822ed4ad5)
 15. [Balanced brackets](https://gist.github.com/denpazakura/7f95dc1a774972b0e88d39b4c930fe99)
 16. [Text editor](https://gist.github.com/denpazakura/0cd5e78e985f30df30d276f4d2f0c1e6)
+17. [Jesse and Cookies](https://gist.github.com/denpazakura/a6e6f719265a56b74c8e4e0160f65005)
 
 
 ## Statistics:
