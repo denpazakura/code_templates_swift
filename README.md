@@ -22,6 +22,7 @@
 16. [Text editor](https://gist.github.com/denpazakura/0cd5e78e985f30df30d276f4d2f0c1e6)
 17. [Jesse and Cookies](https://gist.github.com/denpazakura/a6e6f719265a56b74c8e4e0160f65005)
 18. [Preorder Traversal](https://gist.github.com/denpazakura/52513982f1590ba36f6c794cc25b8e5a)
+19. [Huffman Decoding](https://gist.github.com/denpazakura/21621322fcfddfe57b4c9d3f4816291d)
 
 
 ## Statistics:
